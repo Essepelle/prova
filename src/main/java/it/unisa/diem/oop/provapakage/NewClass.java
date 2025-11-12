@@ -16,6 +16,6 @@ public class NewClass {
     }
 
     public void gay() {
-        System.out.println("Marti' te lo dico dopo che sei...");
+        System.out.println("Marti' te lo dico dopo che sei una lesbicona ritardatona");
     }
 }
