@@ -14,4 +14,8 @@ public class NewClass {
     public int add(int x1, int x2) {
         return x1 + x2;
     }
+
+    public void gay() {
+        System.out.println("Marti' te lo dico dopo che sei...");
+    }
 }
